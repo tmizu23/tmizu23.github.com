@@ -1,2 +1,2 @@
-tmizu23.github.com
+tmizu23.github.io
 ==================
